@@ -1,0 +1,33 @@
+.nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.nav .nav-item {
+    font-size: larger;
+    padding-left: 100px;
+    text-align: center;
+    background-color: #FF5757;
+}
+
+.nav a {
+    color: #f3f3f3;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-title {
+    color: #FF5757;
+    font-size: medium;
+    text-align: center;
+}
